@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-> Built and battle-tested by [Nuraveda Lab](https://github.com/Nuraveda-Labs) on a live Shopify storefront. Brand copy stripped, components left intact — fork it and ship a D2C site without rebuilding the boring parts.
+> Built and battle-tested by [Tejas Karan Agrawal](https://github.com/floating-astronaut) on a live Shopify storefront. Brand copy stripped, components left intact — fork it and ship a D2C site without rebuilding the boring parts.
 
 ---
 
@@ -191,7 +191,7 @@ This was originally built for an Ayurvedic pet-wellness brand. The vertical is g
 
 <p align="center">
   <sub>
-    Maintained by <a href="https://github.com/Nuraveda-Labs">Nuraveda Lab</a> · 
+    Maintained by <a href="https://github.com/floating-astronaut">Tejas Karan Agrawal</a> · 
     Independent AI lab shipping <a href="https://glitchexecutor.com">Glitch Executor</a> and <a href="https://meshpilot.app">Mesh Pilot</a>.
   </sub>
 </p>
