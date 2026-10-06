@@ -8,7 +8,6 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-black.svg" alt="MIT License"></a>
   <a href="https://github.com/Nuraveda-Labs/hydrogen-d2c-starter"><img src="https://img.shields.io/badge/github-Nuraveda--Labs-181717.svg?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://hydrogen.nuraveda.com"><img src="https://img.shields.io/badge/demo-hydrogen.nuraveda.com-00ff88.svg" alt="Live demo"></a>
   <img src="https://img.shields.io/badge/Shopify-Hydrogen-7AB55C?logo=shopify&logoColor=white" alt="Shopify Hydrogen">
   <img src="https://img.shields.io/badge/React_Router-7-CA4245?logo=reactrouter&logoColor=white" alt="React Router 7">
   <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" alt="Vite">
@@ -160,7 +159,7 @@ if (product.handle === HERO_HANDLE) {
 
 ## Deploy
 
-This starter is **Oxygen-ready** (`pnpm build` produces a Worker bundle). It also runs as a long-lived Node process behind Nginx for traditional VPS deploys — that's how `hydrogen.nuraveda.com` is hosted.
+This starter is **Oxygen-ready** (`pnpm build` produces a Worker bundle). It also runs as a long-lived Node process behind Nginx for traditional VPS deploys.
 
 **Oxygen (Shopify-hosted):**
 ```bash
